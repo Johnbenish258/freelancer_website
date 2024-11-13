@@ -10,7 +10,7 @@
 
 
 .client-applications-page span h3{
-
+margin: 0;
 
 }
 
@@ -79,7 +79,7 @@
 }
 
 .client-application-half span p{
-
+margin: 0;
 }
 
 .client-application-half span .application-skills{

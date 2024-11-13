@@ -57,7 +57,7 @@
 
 .projects-list h3{
 
-
+margin: 0;
 }
 
 .listed-project:hover{
@@ -121,11 +121,11 @@
 }
 
 .listed-project .bids-data p{
-
+margin: 0;
     
 }
 
 .listed-project .bids-data h6{
-
+margin: 0;
     
 }

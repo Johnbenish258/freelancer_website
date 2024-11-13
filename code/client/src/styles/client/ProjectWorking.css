@@ -11,7 +11,7 @@
 
 
 .project-data{
-
+margin: 0;
 
 }
 
@@ -26,11 +26,11 @@
 }
 
 .project-data span {
-
+margin: 0;
 }
 
 .project-data span h5{
-
+margin: 0;
 
 }
 
@@ -48,7 +48,7 @@
 }
 
 .project-data span h6{
-
+margin: 0;
 }
 
 .project-submissions-container{
@@ -65,18 +65,18 @@
 }
 
 .project-submissions{
-
+margin: 0;
 
 }
 
 .project-submission{
-
+margin: 0;
 
 }
 
 .project-submission h6{
 
-    
+    margin: 0;
 }
 .project-submission h5{
     margin: 0;
@@ -125,7 +125,7 @@
 }
 
 .project-chat-container hr{
-
+margin: 0;
 
 }
 
